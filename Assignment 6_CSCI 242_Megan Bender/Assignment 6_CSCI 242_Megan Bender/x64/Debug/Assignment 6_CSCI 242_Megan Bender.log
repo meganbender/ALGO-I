@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\natha\OneDrive\Desktop\CSCI 242\Assignment 6_CSCI 242_Megan Bender\Assignment 6_CSCI 242_Megan Bender\Functions.h(121,17): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\natha\OneDrive\Desktop\CSCI 242\Assignment 6_CSCI 242_Megan Bender\Assignment 6_CSCI 242_Megan Bender\Main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\natha\OneDrive\Desktop\CSCI 242\Assignment 6_CSCI 242_Megan Bender\Assignment 6_CSCI 242_Megan Bender\Functions.h(176): warning C4715: 'BinTree::delete_': not all control paths return a value
+  Assignment 6_CSCI 242_Megan Bender.vcxproj -> C:\Users\natha\OneDrive\Desktop\CSCI 242\Assignment 6_CSCI 242_Megan Bender\x64\Debug\Assignment 6_CSCI 242_Megan Bender.exe
