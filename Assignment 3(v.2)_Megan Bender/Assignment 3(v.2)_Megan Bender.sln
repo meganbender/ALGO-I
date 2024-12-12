@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment 3(v.2)_Megan Bender", "Assignment 3(v.2)_Megan Bender\Assignment 3(v.2)_Megan Bender.vcxproj", "{E3AC0DF1-F229-43D1-BE59-7ADF650AEDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3AC0DF1-F229-43D1-BE59-7ADF650AEDFF}.Debug|x64.ActiveCfg = Debug|x64
+		{E3AC0DF1-F229-43D1-BE59-7ADF650AEDFF}.Debug|x64.Build.0 = Debug|x64
+		{E3AC0DF1-F229-43D1-BE59-7ADF650AEDFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3AC0DF1-F229-43D1-BE59-7ADF650AEDFF}.Debug|x86.Build.0 = Debug|Win32
+		{E3AC0DF1-F229-43D1-BE59-7ADF650AEDFF}.Release|x64.ActiveCfg = Release|x64
+		{E3AC0DF1-F229-43D1-BE59-7ADF650AEDFF}.Release|x64.Build.0 = Release|x64
+		{E3AC0DF1-F229-43D1-BE59-7ADF650AEDFF}.Release|x86.ActiveCfg = Release|Win32
+		{E3AC0DF1-F229-43D1-BE59-7ADF650AEDFF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C17B0E67-CB57-4F29-9BCA-7A7F0996FE30}
+	EndGlobalSection
+EndGlobal
