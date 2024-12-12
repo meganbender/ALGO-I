@@ -23,7 +23,7 @@ Assignment 4:
 
 Assignment 5:
   - Jesse the Body Building Burglar
-  - Instructions: Jesse is stealing gym items but cna only steal one time and has a max set of weight he can carry. Each item in
+  - Instructions: Jesse is stealing gym items but can only steal one time and has a max set of weight he can carry. Each item in
     the gym has a value. Create a program that will maximize jesses carry weight as well as maximize his value in items.
     Using Hash Maps and 2-d arrays.
   - Issues in code: Did not clean up dynamic memory at the end of the program.
